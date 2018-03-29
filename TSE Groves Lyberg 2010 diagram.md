@@ -28,7 +28,7 @@ graph TB
   style Respondents fill:#fff,stroke:#333,stroke-width:3px  
 ```
 
-If you are concerned with other sources of error, you can just add more arrows to this diagram at your pleasure!
+If you are concerned with other sources of error, you can just add more arrows to this diagram as you see fit!
 
 ```mermaid
 graph TB
