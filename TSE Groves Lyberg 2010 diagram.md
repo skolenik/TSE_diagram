@@ -68,7 +68,7 @@ graph TB
 
 Thank you and enjoy.
 
-This diagram is available at https://github.com/skolenik/TSE_diagram.
+This diagram is available at https://github.com/skolenik/TSE_diagram
 
 Stas Kolenikov
 
